@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS384",
+      "kid": "cerner-bulk-key-1",
+      "n": "r1aNu6_mzqrrJw-JTEVJrPF6AJiIqoubMLDH9vGunxagzymO4TMmfRWZ5PcqVyivOvmPFhzXtWAV8i8SHyZJwFPqXfOw-TB9Eau1HpxXYUoxuuBhyac7jWR7esFuKeqm-YJG2SRA43rt6Q1tdaHeoXq59fz1G-atNKLPe2fCO5Xyijq-squYx17gx77Ia6jiRe3XzpNri_0qF6AbcrJpa3BmF1GsYT-puLaaxogdCyNKMLBUjs7Fnax2ePFTdWez0AKv0HxvQhQo5udFZi0kHm_NZZdkweNrwIh8s2g1BCtS2NdDfN5OyaYuF-FJV0X_3gB_H8lcs6BlUbiBE1IYgw",
+      "e": "AQAB"
+    }
+  ]
+}
